@@ -1,2 +1,3 @@
-# More-edges
-Completes the edge tileset for HexaRealm
+# More edges
+
+Completes the edge tileset for HexaRealm.
