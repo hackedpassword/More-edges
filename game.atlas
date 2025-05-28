@@ -340,6 +340,90 @@ TileSets/HexaRealm/Edges/Coast-Lands/Beach-Coast-Tundra-TopRight
   orig: 64, 56
   offset: 0, 0
   index: -1
+TileSets/HexaRealm/Edges/Desert-Grassland/Land-Desert-Grassland-Bottom
+  rotate: false
+  xy: 1300, 4
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Edges/Desert-Grassland/Land-Desert-Grassland-BottomLeft
+  rotate: false
+  xy: 1372, 68
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Edges/Desert-Grassland/Land-Desert-Grassland-BottomRight
+  rotate: false
+  xy: 1372, 4
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Edges/Desert-Grassland/Land-Desert-Grassland-Top
+  rotate: false
+  xy: 1444, 68
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Edges/Desert-Grassland/Land-Desert-Grassland-TopLeft
+  rotate: false
+  xy: 1444, 4
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Edges/Desert-Grassland/Land-Desert-Grassland-TopRight
+  rotate: false
+  xy: 1516, 68
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Edges/Desert-Grassland/Land-Grassland-Desert-Bottom
+  rotate: false
+  xy: 1516, 4
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Edges/Desert-Grassland/Land-Grassland-Desert-BottomLeft
+  rotate: false
+  xy: 1588, 68
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Edges/Desert-Grassland/Land-Grassland-Desert-BottomRight
+  rotate: false
+  xy: 1588, 4
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Edges/Desert-Grassland/Land-Grassland-Desert-Top
+  rotate: false
+  xy: 1660, 68
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Edges/Desert-Grassland/Land-Grassland-Desert-TopLeft
+  rotate: false
+  xy: 1660, 4
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Edges/Desert-Grassland/Land-Grassland-Desert-TopRight
+  rotate: false
+  xy: 1732, 68
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
 TileSets/HexaRealm/Edges/Ocean-Desert/Fresh-Desert-Ocean-Bottom
   rotate: false
   xy: 868, 4
