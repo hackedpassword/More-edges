@@ -1,6 +1,0 @@
-The base versions of these files are causing havok by being a catch-all that's muxing into this mod's images.
-
-I overrode this with blank image files. Problem solved!
-
-What this change does is un-default beach image edges to land pairs that have no defined edge.
-This means each land pair now needs a correct edge image - all land<->water edges are defined with this mod.

@@ -1,10 +1,18 @@
 # More edges
 
-Completes the edge tileset for HexaRealm for land-to-sea and sea-to-sea tiles. Land-to-land edges are beginning to materialize, starting with Grassland-Desert.
+Completes the edge tileset for HexaRealm for land-to-sea and sea-to-sea tiles.
+
+Land-to-land edges are beginning to materialize, now including Grassland-Desert!
+
+## Edge modders
+
+Edge modders are welcome to reference this mod. Starting with Unciv v4.16.17 per [PR#13445](https://github.com/yairm210/Unciv/pull/13445), the edges structure was updated, requiring More-edges to follow suit. Note the use of titles like Fresh and Water and Land, etc, and how they apply to png images. In the PR, I note a test mod called EdgeRealm where you can find a bit more information.
 
 ![](preview.png)
 
 ![](https://github.com/hackedpassword/Unciv-Assets/blob/main/Images/More%20Edges/grassland-desert_demo.png)
 ![](https://github.com/hackedpassword/Unciv-Assets/blob/main/Images/More%20Edges/grassland-desert_demo2.png)
+
+# Credits
 
 [Credits](Credits.md)

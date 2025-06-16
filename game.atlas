@@ -4,1157 +4,1115 @@ size: 2048, 128
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-TileSets/HexaRealm/Edges/Coast-Lakes/Beach-Coast-Lakes-Bottom
+TileSets/HexaRealm/Edges/Beach-Coast/Beach-Coast-Desert-Bottom
+  rotate: false
+  xy: 4, 68
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Edges/Beach-Coast/Beach-Coast-Grassland-Bottom
+  rotate: false
+  xy: 4, 68
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Edges/Beach-Coast/Beach-Coast-Mountain-Bottom
+  rotate: false
+  xy: 4, 68
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Edges/Beach-Coast/Beach-Coast-Plains-Bottom
+  rotate: false
+  xy: 4, 68
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Edges/Beach-Coast/Beach-Coast-Tundra-Bottom
+  rotate: false
+  xy: 4, 68
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Edges/Beach-Coast/Beach-Coast-Desert-BottomLeft
+  rotate: false
+  xy: 4, 4
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Edges/Beach-Coast/Beach-Coast-Grassland-BottomLeft
+  rotate: false
+  xy: 4, 4
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Edges/Beach-Coast/Beach-Coast-Mountain-BottomLeft
+  rotate: false
+  xy: 4, 4
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Edges/Beach-Coast/Beach-Coast-Plains-BottomLeft
+  rotate: false
+  xy: 4, 4
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Edges/Beach-Coast/Beach-Coast-Tundra-BottomLeft
+  rotate: false
+  xy: 4, 4
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Edges/Beach-Coast/Beach-Coast-Desert-BottomRight
+  rotate: false
+  xy: 76, 68
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Edges/Beach-Coast/Beach-Coast-Grassland-BottomRight
+  rotate: false
+  xy: 76, 68
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Edges/Beach-Coast/Beach-Coast-Mountain-BottomRight
+  rotate: false
+  xy: 76, 68
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Edges/Beach-Coast/Beach-Coast-Plains-BottomRight
+  rotate: false
+  xy: 76, 68
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Edges/Beach-Coast/Beach-Coast-Tundra-BottomRight
+  rotate: false
+  xy: 76, 68
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Edges/Beach-Coast/Beach-Coast-Desert-Top
+  rotate: false
+  xy: 76, 4
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Edges/Beach-Coast/Beach-Coast-Grassland-Top
+  rotate: false
+  xy: 76, 4
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Edges/Beach-Coast/Beach-Coast-Mountain-Top
+  rotate: false
+  xy: 76, 4
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Edges/Beach-Coast/Beach-Coast-Plains-Top
+  rotate: false
+  xy: 76, 4
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Edges/Beach-Coast/Beach-Coast-Tundra-Top
+  rotate: false
+  xy: 76, 4
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Edges/Beach-Coast/Beach-Coast-Desert-TopLeft
+  rotate: false
+  xy: 148, 68
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Edges/Beach-Coast/Beach-Coast-Grassland-TopLeft
+  rotate: false
+  xy: 148, 68
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Edges/Beach-Coast/Beach-Coast-Mountain-TopLeft
+  rotate: false
+  xy: 148, 68
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Edges/Beach-Coast/Beach-Coast-Plains-TopLeft
+  rotate: false
+  xy: 148, 68
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Edges/Beach-Coast/Beach-Coast-Tundra-TopLeft
+  rotate: false
+  xy: 148, 68
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Edges/Beach-Coast/Beach-Coast-Desert-TopRight
+  rotate: false
+  xy: 148, 4
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Edges/Beach-Coast/Beach-Coast-Grassland-TopRight
+  rotate: false
+  xy: 148, 4
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Edges/Beach-Coast/Beach-Coast-Mountain-TopRight
+  rotate: false
+  xy: 148, 4
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Edges/Beach-Coast/Beach-Coast-Plains-TopRight
+  rotate: false
+  xy: 148, 4
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Edges/Beach-Coast/Beach-Coast-Tundra-TopRight
+  rotate: false
+  xy: 148, 4
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Edges/Beach-Coast/Beach-Coast-Snow-Bottom
   rotate: false
   xy: 220, 68
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Edges/Coast-Lakes/Beach-Lakes-Coast-Bottom
+TileSets/HexaRealm/Edges/Beach-Ocean/Beach-Ocean-Desert-Bottom
   rotate: false
   xy: 220, 68
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Edges/Coast-Lakes/Beach-Coast-Lakes-BottomLeft
+TileSets/HexaRealm/Edges/Beach-Ocean/Beach-Ocean-Grassland-Bottom
+  rotate: false
+  xy: 220, 68
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Edges/Beach-Ocean/Beach-Ocean-Mountain-Bottom
+  rotate: false
+  xy: 220, 68
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Edges/Beach-Ocean/Beach-Ocean-Plains-Bottom
+  rotate: false
+  xy: 220, 68
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Edges/Beach-Ocean/Beach-Ocean-Snow-Bottom
+  rotate: false
+  xy: 220, 68
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Edges/Beach-Ocean/Beach-Ocean-Tundra-Bottom
+  rotate: false
+  xy: 220, 68
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Edges/Fresh-Lakes/Fresh-Lakes-Snow-Bottom
+  rotate: false
+  xy: 220, 68
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Edges/Water-Lakes/Water-Lakes-Ocean-Bottom
+  rotate: false
+  xy: 220, 68
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Edges/Water-Ocean/Water-Ocean-Lakes-Bottom
+  rotate: false
+  xy: 220, 68
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Edges/Beach-Coast/Beach-Coast-Snow-BottomLeft
   rotate: false
   xy: 220, 4
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Edges/Coast-Lakes/Beach-Lakes-Coast-BottomLeft
+TileSets/HexaRealm/Edges/Beach-Ocean/Beach-Ocean-Desert-BottomLeft
   rotate: false
   xy: 220, 4
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Edges/Coast-Lakes/Beach-Coast-Lakes-BottomRight
+TileSets/HexaRealm/Edges/Beach-Ocean/Beach-Ocean-Grassland-BottomLeft
+  rotate: false
+  xy: 220, 4
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Edges/Beach-Ocean/Beach-Ocean-Mountain-BottomLeft
+  rotate: false
+  xy: 220, 4
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Edges/Beach-Ocean/Beach-Ocean-Plains-BottomLeft
+  rotate: false
+  xy: 220, 4
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Edges/Beach-Ocean/Beach-Ocean-Snow-BottomLeft
+  rotate: false
+  xy: 220, 4
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Edges/Beach-Ocean/Beach-Ocean-Tundra-BottomLeft
+  rotate: false
+  xy: 220, 4
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Edges/Fresh-Lakes/Fresh-Lakes-Snow-BottomLeft
+  rotate: false
+  xy: 220, 4
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Edges/Water-Lakes/Water-Lakes-Ocean-BottomLeft
+  rotate: false
+  xy: 220, 4
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Edges/Water-Ocean/Water-Ocean-Lakes-BottomLeft
+  rotate: false
+  xy: 220, 4
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Edges/Beach-Coast/Beach-Coast-Snow-BottomRight
   rotate: false
   xy: 292, 68
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Edges/Coast-Lakes/Beach-Lakes-Coast-BottomRight
+TileSets/HexaRealm/Edges/Beach-Ocean/Beach-Ocean-Desert-BottomRight
   rotate: false
   xy: 292, 68
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Edges/Coast-Lakes/Beach-Coast-Lakes-Top
+TileSets/HexaRealm/Edges/Beach-Ocean/Beach-Ocean-Grassland-BottomRight
+  rotate: false
+  xy: 292, 68
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Edges/Beach-Ocean/Beach-Ocean-Mountain-BottomRight
+  rotate: false
+  xy: 292, 68
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Edges/Beach-Ocean/Beach-Ocean-Plains-BottomRight
+  rotate: false
+  xy: 292, 68
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Edges/Beach-Ocean/Beach-Ocean-Snow-BottomRight
+  rotate: false
+  xy: 292, 68
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Edges/Beach-Ocean/Beach-Ocean-Tundra-BottomRight
+  rotate: false
+  xy: 292, 68
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Edges/Fresh-Lakes/Fresh-Lakes-Snow-BottomRight
+  rotate: false
+  xy: 292, 68
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Edges/Water-Lakes/Water-Lakes-Ocean-BottomRight
+  rotate: false
+  xy: 292, 68
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Edges/Water-Ocean/Water-Ocean-Lakes-BottomRight
+  rotate: false
+  xy: 292, 68
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Edges/Beach-Coast/Beach-Coast-Snow-Top
   rotate: false
   xy: 292, 4
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Edges/Coast-Lakes/Beach-Lakes-Coast-Top
+TileSets/HexaRealm/Edges/Beach-Ocean/Beach-Ocean-Desert-Top
   rotate: false
   xy: 292, 4
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Edges/Coast-Lakes/Beach-Coast-Lakes-TopLeft
+TileSets/HexaRealm/Edges/Beach-Ocean/Beach-Ocean-Grassland-Top
+  rotate: false
+  xy: 292, 4
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Edges/Beach-Ocean/Beach-Ocean-Mountain-Top
+  rotate: false
+  xy: 292, 4
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Edges/Beach-Ocean/Beach-Ocean-Plains-Top
+  rotate: false
+  xy: 292, 4
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Edges/Beach-Ocean/Beach-Ocean-Snow-Top
+  rotate: false
+  xy: 292, 4
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Edges/Beach-Ocean/Beach-Ocean-Tundra-Top
+  rotate: false
+  xy: 292, 4
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Edges/Fresh-Lakes/Fresh-Lakes-Snow-Top
+  rotate: false
+  xy: 292, 4
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Edges/Water-Lakes/Water-Lakes-Ocean-Top
+  rotate: false
+  xy: 292, 4
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Edges/Water-Ocean/Water-Ocean-Lakes-Top
+  rotate: false
+  xy: 292, 4
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Edges/Beach-Coast/Beach-Coast-Snow-TopLeft
   rotate: false
   xy: 364, 68
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Edges/Coast-Lakes/Beach-Lakes-Coast-TopLeft
+TileSets/HexaRealm/Edges/Beach-Ocean/Beach-Ocean-Desert-TopLeft
   rotate: false
   xy: 364, 68
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Edges/Coast-Lakes/Beach-Coast-Lakes-TopRight
+TileSets/HexaRealm/Edges/Beach-Ocean/Beach-Ocean-Grassland-TopLeft
+  rotate: false
+  xy: 364, 68
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Edges/Beach-Ocean/Beach-Ocean-Mountain-TopLeft
+  rotate: false
+  xy: 364, 68
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Edges/Beach-Ocean/Beach-Ocean-Plains-TopLeft
+  rotate: false
+  xy: 364, 68
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Edges/Beach-Ocean/Beach-Ocean-Snow-TopLeft
+  rotate: false
+  xy: 364, 68
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Edges/Beach-Ocean/Beach-Ocean-Tundra-TopLeft
+  rotate: false
+  xy: 364, 68
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Edges/Fresh-Lakes/Fresh-Lakes-Snow-TopLeft
+  rotate: false
+  xy: 364, 68
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Edges/Water-Lakes/Water-Lakes-Ocean-TopLeft
+  rotate: false
+  xy: 364, 68
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Edges/Water-Ocean/Water-Ocean-Lakes-TopLeft
+  rotate: false
+  xy: 364, 68
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Edges/Beach-Coast/Beach-Coast-Snow-TopRight
   rotate: false
   xy: 364, 4
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Edges/Coast-Lakes/Beach-Lakes-Coast-TopRight
+TileSets/HexaRealm/Edges/Beach-Ocean/Beach-Ocean-Desert-TopRight
   rotate: false
   xy: 364, 4
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Edges/Coast-Land Art/Beach-Coast-Land-Bottom
+TileSets/HexaRealm/Edges/Beach-Ocean/Beach-Ocean-Grassland-TopRight
+  rotate: false
+  xy: 364, 4
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Edges/Beach-Ocean/Beach-Ocean-Mountain-TopRight
+  rotate: false
+  xy: 364, 4
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Edges/Beach-Ocean/Beach-Ocean-Plains-TopRight
+  rotate: false
+  xy: 364, 4
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Edges/Beach-Ocean/Beach-Ocean-Snow-TopRight
+  rotate: false
+  xy: 364, 4
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Edges/Beach-Ocean/Beach-Ocean-Tundra-TopRight
+  rotate: false
+  xy: 364, 4
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Edges/Fresh-Lakes/Fresh-Lakes-Snow-TopRight
+  rotate: false
+  xy: 364, 4
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Edges/Water-Lakes/Water-Lakes-Ocean-TopRight
+  rotate: false
+  xy: 364, 4
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Edges/Water-Ocean/Water-Ocean-Lakes-TopRight
+  rotate: false
+  xy: 364, 4
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Edges/Beach-Desert/Beach-Desert-Ocean-Bottom
   rotate: false
   xy: 436, 68
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Edges/Coast-Land Art/Beach-Coast-Land-BottomLeft
+TileSets/HexaRealm/Edges/Beach-Desert/Beach-Desert-Ocean-BottomLeft
   rotate: false
-  xy: 436, 68
+  xy: 436, 4
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Edges/Coast-Land Art/Beach-Coast-Land-BottomRight
+TileSets/HexaRealm/Edges/Beach-Desert/Beach-Desert-Ocean-BottomRight
   rotate: false
-  xy: 436, 68
+  xy: 508, 68
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Edges/Coast-Land Art/Beach-Coast-Land-Top
+TileSets/HexaRealm/Edges/Beach-Desert/Beach-Desert-Ocean-Top
   rotate: false
-  xy: 436, 68
+  xy: 508, 4
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Edges/Coast-Land Art/Beach-Coast-Land-TopLeft
+TileSets/HexaRealm/Edges/Beach-Desert/Beach-Desert-Ocean-TopLeft
   rotate: false
-  xy: 436, 68
+  xy: 580, 68
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Edges/Coast-Land Art/Beach-Coast-Land-TopRight
+TileSets/HexaRealm/Edges/Beach-Desert/Beach-Desert-Ocean-TopRight
   rotate: false
-  xy: 436, 68
+  xy: 580, 4
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Edges/Coast-Lands/Beach-Coast-Desert-Bottom
+TileSets/HexaRealm/Edges/Beach-Grassland/Beach-Grassland-Ocean-Bottom
   rotate: false
-  xy: 4, 68
+  xy: 652, 68
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Edges/Coast-Lands/Beach-Coast-Grassland-Bottom
+TileSets/HexaRealm/Edges/Beach-Mountain/Beach-Mountain-Ocean-Bottom
   rotate: false
-  xy: 4, 68
+  xy: 652, 68
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Edges/Coast-Lands/Beach-Coast-Mountain-Bottom
+TileSets/HexaRealm/Edges/Beach-Plains/Beach-Plains-Ocean-Bottom
   rotate: false
-  xy: 4, 68
+  xy: 652, 68
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Edges/Coast-Lands/Beach-Coast-Plains-Bottom
+TileSets/HexaRealm/Edges/Beach-Tundra/Beach-Tundra-Ocean-Bottom
   rotate: false
-  xy: 4, 68
+  xy: 652, 68
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Edges/Coast-Lands/Beach-Coast-Tundra-Bottom
+TileSets/HexaRealm/Edges/Beach-Grassland/Beach-Grassland-Ocean-BottomLeft
   rotate: false
-  xy: 4, 68
+  xy: 652, 4
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Edges/Coast-Lands/Beach-Coast-Desert-BottomLeft
+TileSets/HexaRealm/Edges/Beach-Mountain/Beach-Mountain-Ocean-BottomLeft
   rotate: false
-  xy: 4, 4
+  xy: 652, 4
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Edges/Coast-Lands/Beach-Coast-Grassland-BottomLeft
+TileSets/HexaRealm/Edges/Beach-Plains/Beach-Plains-Ocean-BottomLeft
   rotate: false
-  xy: 4, 4
+  xy: 652, 4
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Edges/Coast-Lands/Beach-Coast-Mountain-BottomLeft
+TileSets/HexaRealm/Edges/Beach-Tundra/Beach-Tundra-Ocean-BottomLeft
   rotate: false
-  xy: 4, 4
+  xy: 652, 4
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Edges/Coast-Lands/Beach-Coast-Plains-BottomLeft
+TileSets/HexaRealm/Edges/Beach-Grassland/Beach-Grassland-Ocean-BottomRight
   rotate: false
-  xy: 4, 4
+  xy: 724, 68
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Edges/Coast-Lands/Beach-Coast-Tundra-BottomLeft
+TileSets/HexaRealm/Edges/Beach-Mountain/Beach-Mountain-Ocean-BottomRight
   rotate: false
-  xy: 4, 4
+  xy: 724, 68
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Edges/Coast-Lands/Beach-Coast-Desert-BottomRight
+TileSets/HexaRealm/Edges/Beach-Plains/Beach-Plains-Ocean-BottomRight
   rotate: false
-  xy: 76, 68
+  xy: 724, 68
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Edges/Coast-Lands/Beach-Coast-Grassland-BottomRight
+TileSets/HexaRealm/Edges/Beach-Tundra/Beach-Tundra-Ocean-BottomRight
   rotate: false
-  xy: 76, 68
+  xy: 724, 68
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Edges/Coast-Lands/Beach-Coast-Mountain-BottomRight
+TileSets/HexaRealm/Edges/Beach-Grassland/Beach-Grassland-Ocean-Top
   rotate: false
-  xy: 76, 68
+  xy: 724, 4
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Edges/Coast-Lands/Beach-Coast-Plains-BottomRight
+TileSets/HexaRealm/Edges/Beach-Plains/Beach-Plains-Ocean-Top
   rotate: false
-  xy: 76, 68
+  xy: 724, 4
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Edges/Coast-Lands/Beach-Coast-Tundra-BottomRight
+TileSets/HexaRealm/Edges/Beach-Tundra/Beach-Tundra-Ocean-Top
   rotate: false
-  xy: 76, 68
+  xy: 724, 4
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Edges/Coast-Lands/Beach-Coast-Desert-Top
+TileSets/HexaRealm/Edges/Beach-Grassland/Beach-Grassland-Ocean-TopLeft
   rotate: false
-  xy: 76, 4
+  xy: 796, 68
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Edges/Coast-Lands/Beach-Coast-Grassland-Top
+TileSets/HexaRealm/Edges/Beach-Plains/Beach-Plains-Ocean-TopLeft
   rotate: false
-  xy: 76, 4
+  xy: 796, 68
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Edges/Coast-Lands/Beach-Coast-Mountain-Top
+TileSets/HexaRealm/Edges/Beach-Tundra/Beach-Tundra-Ocean-TopLeft
   rotate: false
-  xy: 76, 4
+  xy: 796, 68
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Edges/Coast-Lands/Beach-Coast-Plains-Top
+TileSets/HexaRealm/Edges/Beach-Grassland/Beach-Grassland-Ocean-TopRight
   rotate: false
-  xy: 76, 4
+  xy: 796, 4
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Edges/Coast-Lands/Beach-Coast-Tundra-Top
+TileSets/HexaRealm/Edges/Beach-Plains/Beach-Plains-Ocean-TopRight
   rotate: false
-  xy: 76, 4
+  xy: 796, 4
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Edges/Coast-Lands/Beach-Coast-Desert-TopLeft
+TileSets/HexaRealm/Edges/Beach-Tundra/Beach-Tundra-Ocean-TopRight
   rotate: false
-  xy: 148, 68
+  xy: 796, 4
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Edges/Coast-Lands/Beach-Coast-Grassland-TopLeft
+TileSets/HexaRealm/Edges/Beach-Snow/Beach-Snow-Coast-Bottom
   rotate: false
-  xy: 148, 68
+  xy: 868, 68
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Edges/Coast-Lands/Beach-Coast-Mountain-TopLeft
+TileSets/HexaRealm/Edges/Beach-Snow/Beach-Snow-Ocean-Bottom
   rotate: false
-  xy: 148, 68
+  xy: 868, 68
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Edges/Coast-Lands/Beach-Coast-Plains-TopLeft
+TileSets/HexaRealm/Edges/Fresh-Snow/Fresh-Snow-Lakes-Bottom
   rotate: false
-  xy: 148, 68
+  xy: 868, 68
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Edges/Coast-Lands/Beach-Coast-Tundra-TopLeft
-  rotate: false
-  xy: 148, 68
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Edges/Coast-Lands/Beach-Coast-Desert-TopRight
-  rotate: false
-  xy: 148, 4
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Edges/Coast-Lands/Beach-Coast-Grassland-TopRight
-  rotate: false
-  xy: 148, 4
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Edges/Coast-Lands/Beach-Coast-Mountain-TopRight
-  rotate: false
-  xy: 148, 4
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Edges/Coast-Lands/Beach-Coast-Plains-TopRight
-  rotate: false
-  xy: 148, 4
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Edges/Coast-Lands/Beach-Coast-Tundra-TopRight
-  rotate: false
-  xy: 148, 4
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Edges/Desert-Grassland/Land-Desert-Grassland-Bottom
-  rotate: false
-  xy: 1300, 4
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Edges/Desert-Grassland/Land-Desert-Grassland-BottomLeft
-  rotate: false
-  xy: 1372, 68
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Edges/Desert-Grassland/Land-Desert-Grassland-BottomRight
-  rotate: false
-  xy: 1372, 4
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Edges/Desert-Grassland/Land-Desert-Grassland-Top
-  rotate: false
-  xy: 1444, 68
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Edges/Desert-Grassland/Land-Desert-Grassland-TopLeft
-  rotate: false
-  xy: 1444, 4
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Edges/Desert-Grassland/Land-Desert-Grassland-TopRight
-  rotate: false
-  xy: 1516, 68
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Edges/Desert-Grassland/Land-Grassland-Desert-Bottom
-  rotate: false
-  xy: 1516, 4
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Edges/Desert-Grassland/Land-Grassland-Desert-BottomLeft
-  rotate: false
-  xy: 1588, 68
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Edges/Desert-Grassland/Land-Grassland-Desert-BottomRight
-  rotate: false
-  xy: 1588, 4
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Edges/Desert-Grassland/Land-Grassland-Desert-Top
-  rotate: false
-  xy: 1660, 68
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Edges/Desert-Grassland/Land-Grassland-Desert-TopLeft
-  rotate: false
-  xy: 1660, 4
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Edges/Desert-Grassland/Land-Grassland-Desert-TopRight
-  rotate: false
-  xy: 1732, 68
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Edges/Ocean-Desert/Fresh-Desert-Ocean-Bottom
+TileSets/HexaRealm/Edges/Beach-Snow/Beach-Snow-Coast-BottomLeft
   rotate: false
   xy: 868, 4
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Edges/Ocean-Desert/Fresh-Desert-Ocean-BottomLeft
+TileSets/HexaRealm/Edges/Beach-Snow/Beach-Snow-Ocean-BottomLeft
+  rotate: false
+  xy: 868, 4
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Edges/Fresh-Snow/Fresh-Snow-Lakes-BottomLeft
+  rotate: false
+  xy: 868, 4
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Edges/Beach-Snow/Beach-Snow-Coast-BottomRight
   rotate: false
   xy: 940, 68
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Edges/Ocean-Desert/Fresh-Desert-Ocean-BottomRight
+TileSets/HexaRealm/Edges/Beach-Snow/Beach-Snow-Ocean-BottomRight
+  rotate: false
+  xy: 940, 68
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Edges/Fresh-Snow/Fresh-Snow-Lakes-BottomRight
+  rotate: false
+  xy: 940, 68
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Edges/Beach-Snow/Beach-Snow-Coast-Top
   rotate: false
   xy: 940, 4
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Edges/Ocean-Desert/Fresh-Desert-Ocean-Top
+TileSets/HexaRealm/Edges/Beach-Snow/Beach-Snow-Ocean-Top
+  rotate: false
+  xy: 940, 4
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Edges/Fresh-Snow/Fresh-Snow-Lakes-Top
+  rotate: false
+  xy: 940, 4
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Edges/Beach-Snow/Beach-Snow-Coast-TopLeft
   rotate: false
   xy: 1012, 68
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Edges/Ocean-Desert/Fresh-Desert-Ocean-TopLeft
+TileSets/HexaRealm/Edges/Beach-Snow/Beach-Snow-Ocean-TopLeft
+  rotate: false
+  xy: 1012, 68
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Edges/Fresh-Snow/Fresh-Snow-Lakes-TopLeft
+  rotate: false
+  xy: 1012, 68
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Edges/Beach-Snow/Beach-Snow-Coast-TopRight
   rotate: false
   xy: 1012, 4
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Edges/Ocean-Desert/Fresh-Desert-Ocean-TopRight
+TileSets/HexaRealm/Edges/Beach-Snow/Beach-Snow-Ocean-TopRight
+  rotate: false
+  xy: 1012, 4
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Edges/Fresh-Snow/Fresh-Snow-Lakes-TopRight
+  rotate: false
+  xy: 1012, 4
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Edges/Land-Desert/Land-Desert-Grassland-Bottom
   rotate: false
   xy: 1084, 68
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Edges/Ocean-Grassland/Fresh-Grassland-Ocean-Bottom
+TileSets/HexaRealm/Edges/Land-Desert/Land-Desert-Grassland-BottomLeft
   rotate: false
   xy: 1084, 4
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Edges/Ocean-Mountain/Fresh-Mountain-Ocean-Bottom
-  rotate: false
-  xy: 1084, 4
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Edges/Ocean-Plains/Fresh-Plains-Ocean-Bottom
-  rotate: false
-  xy: 1084, 4
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Edges/Ocean-Tundra/Fresh-Tundra-Ocean-Bottom
-  rotate: false
-  xy: 1084, 4
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Edges/Ocean-Grassland/Fresh-Grassland-Ocean-BottomLeft
+TileSets/HexaRealm/Edges/Land-Desert/Land-Desert-Grassland-BottomRight
   rotate: false
   xy: 1156, 68
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Edges/Ocean-Mountain/Fresh-Mountain-Ocean-BottomLeft
-  rotate: false
-  xy: 1156, 68
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Edges/Ocean-Plains/Fresh-Plains-Ocean-BottomLeft
-  rotate: false
-  xy: 1156, 68
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Edges/Ocean-Tundra/Fresh-Tundra-Ocean-BottomLeft
-  rotate: false
-  xy: 1156, 68
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Edges/Ocean-Grassland/Fresh-Grassland-Ocean-BottomRight
+TileSets/HexaRealm/Edges/Land-Desert/Land-Desert-Grassland-Top
   rotate: false
   xy: 1156, 4
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Edges/Ocean-Mountain/Fresh-Mountain-Ocean-BottomRight
-  rotate: false
-  xy: 1156, 4
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Edges/Ocean-Plains/Fresh-Plains-Ocean-BottomRight
-  rotate: false
-  xy: 1156, 4
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Edges/Ocean-Tundra/Fresh-Tundra-Ocean-BottomRight
-  rotate: false
-  xy: 1156, 4
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Edges/Ocean-Grassland/Fresh-Grassland-Ocean-Top
+TileSets/HexaRealm/Edges/Land-Desert/Land-Desert-Grassland-TopLeft
   rotate: false
   xy: 1228, 68
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Edges/Ocean-Plains/Fresh-Plains-Ocean-Top
-  rotate: false
-  xy: 1228, 68
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Edges/Ocean-Tundra/Fresh-Tundra-Ocean-Top
-  rotate: false
-  xy: 1228, 68
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Edges/Ocean-Grassland/Fresh-Grassland-Ocean-TopLeft
+TileSets/HexaRealm/Edges/Land-Desert/Land-Desert-Grassland-TopRight
   rotate: false
   xy: 1228, 4
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Edges/Ocean-Plains/Fresh-Plains-Ocean-TopLeft
-  rotate: false
-  xy: 1228, 4
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Edges/Ocean-Tundra/Fresh-Tundra-Ocean-TopLeft
-  rotate: false
-  xy: 1228, 4
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Edges/Ocean-Grassland/Fresh-Grassland-Ocean-TopRight
+TileSets/HexaRealm/Edges/Land-Grassland/Land-Grassland-Desert-Bottom
   rotate: false
   xy: 1300, 68
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Edges/Ocean-Plains/Fresh-Plains-Ocean-TopRight
+TileSets/HexaRealm/Edges/Land-Grassland/Land-Grassland-Desert-BottomLeft
   rotate: false
-  xy: 1300, 68
+  xy: 1300, 4
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Edges/Ocean-Tundra/Fresh-Tundra-Ocean-TopRight
+TileSets/HexaRealm/Edges/Land-Grassland/Land-Grassland-Desert-BottomRight
   rotate: false
-  xy: 1300, 68
+  xy: 1372, 68
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Edges/Tundra+Snow-Coast Art/Beach-Coast-Snow-Bottom
+TileSets/HexaRealm/Edges/Land-Grassland/Land-Grassland-Desert-Top
   rotate: false
-  xy: 436, 4
+  xy: 1372, 4
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Edges/Lake-Snow/Fresh-Lakes-Snow-Bottom
+TileSets/HexaRealm/Edges/Land-Grassland/Land-Grassland-Desert-TopLeft
   rotate: false
-  xy: 436, 4
+  xy: 1444, 68
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Edges/Ocean-Desert/Beach-Ocean-Desert-Bottom
+TileSets/HexaRealm/Edges/Land-Grassland/Land-Grassland-Desert-TopRight
   rotate: false
-  xy: 436, 4
+  xy: 1444, 4
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Edges/Ocean-Grassland/Beach-Ocean-Grassland-Bottom
+TileSets/HexaRealm/Edges/Water-Coast/Water-Coast-Lakes-Bottom
   rotate: false
-  xy: 436, 4
+  xy: 1516, 68
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Edges/Ocean-Lakes/Beach-Lakes-Ocean-Bottom
+TileSets/HexaRealm/Edges/Water-Lakes/Water-Lakes-Coast-Bottom
   rotate: false
-  xy: 436, 4
+  xy: 1516, 68
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Edges/Ocean-Lakes/Beach-Ocean-Lakes-Bottom
+TileSets/HexaRealm/Edges/Water-Coast/Water-Coast-Lakes-BottomLeft
   rotate: false
-  xy: 436, 4
+  xy: 1516, 4
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Edges/Ocean-Mountain/Beach-Ocean-Mountain-Bottom
+TileSets/HexaRealm/Edges/Water-Lakes/Water-Lakes-Coast-BottomLeft
   rotate: false
-  xy: 436, 4
+  xy: 1516, 4
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Edges/Ocean-Plains/Beach-Ocean-Plains-Bottom
+TileSets/HexaRealm/Edges/Water-Coast/Water-Coast-Lakes-BottomRight
   rotate: false
-  xy: 436, 4
+  xy: 1588, 68
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Edges/Ocean-Snow/Beach-Ocean-Snow-Bottom
+TileSets/HexaRealm/Edges/Water-Lakes/Water-Lakes-Coast-BottomRight
   rotate: false
-  xy: 436, 4
+  xy: 1588, 68
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Edges/Ocean-Tundra/Beach-Ocean-Tundra-Bottom
+TileSets/HexaRealm/Edges/Water-Coast/Water-Coast-Lakes-Top
   rotate: false
-  xy: 436, 4
+  xy: 1588, 4
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Edges/Tundra+Snow-Coast Art/Beach-Coast-Snow-BottomLeft
+TileSets/HexaRealm/Edges/Water-Lakes/Water-Lakes-Coast-Top
   rotate: false
-  xy: 508, 68
+  xy: 1588, 4
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Edges/Lake-Snow/Fresh-Lakes-Snow-BottomLeft
+TileSets/HexaRealm/Edges/Water-Coast/Water-Coast-Lakes-TopLeft
   rotate: false
-  xy: 508, 68
+  xy: 1660, 68
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Edges/Ocean-Desert/Beach-Ocean-Desert-BottomLeft
+TileSets/HexaRealm/Edges/Water-Lakes/Water-Lakes-Coast-TopLeft
   rotate: false
-  xy: 508, 68
+  xy: 1660, 68
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Edges/Ocean-Grassland/Beach-Ocean-Grassland-BottomLeft
+TileSets/HexaRealm/Edges/Water-Coast/Water-Coast-Lakes-TopRight
   rotate: false
-  xy: 508, 68
+  xy: 1660, 4
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Edges/Ocean-Lakes/Beach-Lakes-Ocean-BottomLeft
+TileSets/HexaRealm/Edges/Water-Lakes/Water-Lakes-Coast-TopRight
   rotate: false
-  xy: 508, 68
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Edges/Ocean-Lakes/Beach-Ocean-Lakes-BottomLeft
-  rotate: false
-  xy: 508, 68
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Edges/Ocean-Mountain/Beach-Ocean-Mountain-BottomLeft
-  rotate: false
-  xy: 508, 68
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Edges/Ocean-Plains/Beach-Ocean-Plains-BottomLeft
-  rotate: false
-  xy: 508, 68
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Edges/Ocean-Snow/Beach-Ocean-Snow-BottomLeft
-  rotate: false
-  xy: 508, 68
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Edges/Ocean-Tundra/Beach-Ocean-Tundra-BottomLeft
-  rotate: false
-  xy: 508, 68
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Edges/Tundra+Snow-Coast Art/Beach-Coast-Snow-BottomRight
-  rotate: false
-  xy: 508, 4
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Edges/Lake-Snow/Fresh-Lakes-Snow-BottomRight
-  rotate: false
-  xy: 508, 4
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Edges/Ocean-Desert/Beach-Ocean-Desert-BottomRight
-  rotate: false
-  xy: 508, 4
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Edges/Ocean-Grassland/Beach-Ocean-Grassland-BottomRight
-  rotate: false
-  xy: 508, 4
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Edges/Ocean-Lakes/Beach-Lakes-Ocean-BottomRight
-  rotate: false
-  xy: 508, 4
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Edges/Ocean-Lakes/Beach-Ocean-Lakes-BottomRight
-  rotate: false
-  xy: 508, 4
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Edges/Ocean-Mountain/Beach-Ocean-Mountain-BottomRight
-  rotate: false
-  xy: 508, 4
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Edges/Ocean-Plains/Beach-Ocean-Plains-BottomRight
-  rotate: false
-  xy: 508, 4
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Edges/Ocean-Snow/Beach-Ocean-Snow-BottomRight
-  rotate: false
-  xy: 508, 4
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Edges/Ocean-Tundra/Beach-Ocean-Tundra-BottomRight
-  rotate: false
-  xy: 508, 4
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Edges/Tundra+Snow-Coast Art/Beach-Coast-Snow-Top
-  rotate: false
-  xy: 580, 68
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Edges/Lake-Snow/Fresh-Lakes-Snow-Top
-  rotate: false
-  xy: 580, 68
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Edges/Ocean-Desert/Beach-Ocean-Desert-Top
-  rotate: false
-  xy: 580, 68
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Edges/Ocean-Grassland/Beach-Ocean-Grassland-Top
-  rotate: false
-  xy: 580, 68
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Edges/Ocean-Lakes/Beach-Lakes-Ocean-Top
-  rotate: false
-  xy: 580, 68
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Edges/Ocean-Lakes/Beach-Ocean-Lakes-Top
-  rotate: false
-  xy: 580, 68
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Edges/Ocean-Mountain/Beach-Ocean-Mountain-Top
-  rotate: false
-  xy: 580, 68
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Edges/Ocean-Plains/Beach-Ocean-Plains-Top
-  rotate: false
-  xy: 580, 68
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Edges/Ocean-Snow/Beach-Ocean-Snow-Top
-  rotate: false
-  xy: 580, 68
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Edges/Ocean-Tundra/Beach-Ocean-Tundra-Top
-  rotate: false
-  xy: 580, 68
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Edges/Tundra+Snow-Coast Art/Beach-Coast-Snow-TopLeft
-  rotate: false
-  xy: 580, 4
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Edges/Lake-Snow/Fresh-Lakes-Snow-TopLeft
-  rotate: false
-  xy: 580, 4
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Edges/Ocean-Desert/Beach-Ocean-Desert-TopLeft
-  rotate: false
-  xy: 580, 4
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Edges/Ocean-Grassland/Beach-Ocean-Grassland-TopLeft
-  rotate: false
-  xy: 580, 4
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Edges/Ocean-Lakes/Beach-Lakes-Ocean-TopLeft
-  rotate: false
-  xy: 580, 4
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Edges/Ocean-Lakes/Beach-Ocean-Lakes-TopLeft
-  rotate: false
-  xy: 580, 4
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Edges/Ocean-Mountain/Beach-Ocean-Mountain-TopLeft
-  rotate: false
-  xy: 580, 4
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Edges/Ocean-Plains/Beach-Ocean-Plains-TopLeft
-  rotate: false
-  xy: 580, 4
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Edges/Ocean-Snow/Beach-Ocean-Snow-TopLeft
-  rotate: false
-  xy: 580, 4
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Edges/Ocean-Tundra/Beach-Ocean-Tundra-TopLeft
-  rotate: false
-  xy: 580, 4
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Edges/Tundra+Snow-Coast Art/Beach-Coast-Snow-TopRight
-  rotate: false
-  xy: 652, 68
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Edges/Lake-Snow/Fresh-Lakes-Snow-TopRight
-  rotate: false
-  xy: 652, 68
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Edges/Ocean-Desert/Beach-Ocean-Desert-TopRight
-  rotate: false
-  xy: 652, 68
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Edges/Ocean-Grassland/Beach-Ocean-Grassland-TopRight
-  rotate: false
-  xy: 652, 68
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Edges/Ocean-Lakes/Beach-Lakes-Ocean-TopRight
-  rotate: false
-  xy: 652, 68
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Edges/Ocean-Lakes/Beach-Ocean-Lakes-TopRight
-  rotate: false
-  xy: 652, 68
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Edges/Ocean-Mountain/Beach-Ocean-Mountain-TopRight
-  rotate: false
-  xy: 652, 68
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Edges/Ocean-Plains/Beach-Ocean-Plains-TopRight
-  rotate: false
-  xy: 652, 68
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Edges/Ocean-Snow/Beach-Ocean-Snow-TopRight
-  rotate: false
-  xy: 652, 68
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Edges/Ocean-Tundra/Beach-Ocean-Tundra-TopRight
-  rotate: false
-  xy: 652, 68
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Edges/Tundra+Snow-Coast Art/Beach-Snow-Coast-Bottom
-  rotate: false
-  xy: 652, 4
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Edges/Lake-Snow/Fresh-Snow-Lakes-Bottom
-  rotate: false
-  xy: 652, 4
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Edges/Ocean-Snow/Fresh-Snow-Ocean-Bottom
-  rotate: false
-  xy: 652, 4
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Edges/Tundra+Snow-Coast Art/Beach-Snow-Coast-BottomLeft
-  rotate: false
-  xy: 724, 68
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Edges/Lake-Snow/Fresh-Snow-Lakes-BottomLeft
-  rotate: false
-  xy: 724, 68
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Edges/Ocean-Snow/Fresh-Snow-Ocean-BottomLeft
-  rotate: false
-  xy: 724, 68
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Edges/Tundra+Snow-Coast Art/Beach-Snow-Coast-BottomRight
-  rotate: false
-  xy: 724, 4
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Edges/Lake-Snow/Fresh-Snow-Lakes-BottomRight
-  rotate: false
-  xy: 724, 4
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Edges/Ocean-Snow/Fresh-Snow-Ocean-BottomRight
-  rotate: false
-  xy: 724, 4
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Edges/Tundra+Snow-Coast Art/Beach-Snow-Coast-Top
-  rotate: false
-  xy: 796, 68
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Edges/Lake-Snow/Fresh-Snow-Lakes-Top
-  rotate: false
-  xy: 796, 68
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Edges/Ocean-Snow/Fresh-Snow-Ocean-Top
-  rotate: false
-  xy: 796, 68
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Edges/Tundra+Snow-Coast Art/Beach-Snow-Coast-TopLeft
-  rotate: false
-  xy: 796, 4
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Edges/Lake-Snow/Fresh-Snow-Lakes-TopLeft
-  rotate: false
-  xy: 796, 4
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Edges/Ocean-Snow/Fresh-Snow-Ocean-TopLeft
-  rotate: false
-  xy: 796, 4
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Edges/Tundra+Snow-Coast Art/Beach-Snow-Coast-TopRight
-  rotate: false
-  xy: 868, 68
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Edges/Lake-Snow/Fresh-Snow-Lakes-TopRight
-  rotate: false
-  xy: 868, 68
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Edges/Ocean-Snow/Fresh-Snow-Ocean-TopRight
-  rotate: false
-  xy: 868, 68
+  xy: 1660, 4
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
