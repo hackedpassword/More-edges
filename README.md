@@ -8,7 +8,7 @@ Land-to-land edges are beginning to materialize, now including Grassland-Desert!
 
 # Edge modders
 
-Edge modders are welcome to reference this mod. Starting with Unciv `v4.16.18`? via [PR#13445](https://github.com/yairm210/Unciv/pull/13445), HexaRealm edges dir structure was updated, requiring More-edges to follow suit. Note the use of titles like Fresh and Water and Land, etc, and how they apply to png images. In the PR, I note a test mod called EdgeRealm where you can find a bit more information.
+Edge modders are welcome to reference this mod. Starting with Unciv `v4.16.17`, HexaRealm edges dir structure was updated, requiring More-edges to follow suit. Note the use of titles like Fresh and Water and Land, etc, and how they apply to png images.
 
 ## Learn more about edges
 
