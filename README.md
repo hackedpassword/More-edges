@@ -16,10 +16,13 @@ Select this mod as a "permanent audio/visual mod" to apply it globally.
 
 ## Learn more about edges
 
-From the Unciv documentation:[Creating a custom tileset/edge-images](https://yairm210.github.io/Unciv/Modders/Creating-a-custom-tileset/#edge-images)
+From the Unciv documentation: [Creating a custom tileset/edge-images](https://yairm210.github.io/Unciv/Modders/Creating-a-custom-tileset/#edge-images)
 
 
 ![](https://github.com/hackedpassword/Unciv-Assets/blob/main/Images/More%20Edges/grassland-desert_demo.png)
+
+## Demo of grassland-desert edges
+
 ![](https://github.com/hackedpassword/Unciv-Assets/blob/main/Images/More%20Edges/grassland-desert_demo2.png)
 
 # Credits
